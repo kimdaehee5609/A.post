@@ -6,5 +6,5 @@
 
 
 
-https://github.com/kimdaehee5609/A.-post.git
+https://github.com/kimdaehee5609/A.post.git
 
