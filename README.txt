@@ -6,4 +6,4 @@
 
 
 
-https://github.com/kimdaehee5609/A.post.git
+git clone https://github.com/kimdaehee5609/A.post.git
